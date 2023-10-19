@@ -11,7 +11,7 @@ El código realizado se encuentra en el directorio [./src/](./src) del repositor
 
 ## Descarga
 El programa compilado como un binario se puede descargar mediante el siguiente enlace referente al presente repositorio:
- - :file_folder: Windows x64: [./binaries/SignoZodiacal.zip](https://raw.githubusercontent.com/AntonyBlanco/Laboratorio04TO/main/binaries/ExampleSignalSlotProy.zip)
+ - :file_folder: Windows x64: [./binaries/SignoZodiacal_winx64.zip](https://github.com/AntonyBlanco/Laboratorio04TO/raw/main/binaries/SignoZodiacal_winx64.zip)
 
 El ejecutable no puede ejecutarse por si solo, requiere dependencias de archivos tipo .dll pertenecientes a Qt (wn Windows), es por ello que guiados por la [página oficial de Qt](https://doc.qt.io/qt-5/windows-deployment.html#the-windows-deployment-tool) se realizó una búsqueda automática de dependencias con el programa windeploy.exe y posteriormente se comprimió el ejecutable junto con las dependencias en formato ZIP.
 
